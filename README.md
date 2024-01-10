@@ -23,7 +23,8 @@ React: A JavaScript library for building user interfaces.
 CSS: Simple styling is applied to enhance the visual appeal.
 
 ## Screenshots
-
+<img width="960" alt="outlook" src="https://github.com/AshutoshYash/tic-tac-toe/assets/104526927/02dce1a5-d7b6-4e95-843d-80ceaa7451eb">
+<img width="959" alt="win state" src="https://github.com/AshutoshYash/tic-tac-toe/assets/104526927/cb046d7f-3c4b-4274-80fd-f81af1976bcb">
 ## Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and suggestions are highly appreciated.
 
