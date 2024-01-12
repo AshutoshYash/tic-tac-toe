@@ -25,6 +25,7 @@ Open your browser and visit http://localhost:3000 to play the game.
 
 ## Component Diagram 
 The following component diagram is used to help us think in components.
+
 <img width="443" alt="components diagram" src="https://github.com/AshutoshYash/tic-tac-toe/assets/104526927/a9b60df2-d56f-4fad-a43c-e401c5094eda">
 
 ## Contributing
